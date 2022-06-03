@@ -2,7 +2,7 @@ name: artifacts
 
 on: push
 
-Env:
+env:
   artifacts_name: myartifacts
 
 jobs:
